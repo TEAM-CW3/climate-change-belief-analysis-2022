@@ -16,12 +16,12 @@ consumer sentiment, spanning multiple demographic and geographic categories - TE
 informing future marketing strategies.
 
 ### TEAM-CW3
- 1. Thulani Nyama - Team Coordinator
- 2. Ephraim Kganyago
- 3. Immaculate Makokga
- 4. Nhlanhla Ngwenya
- 5. Sqiniseko Sizwe Gift Nhlenyama
- 6. Zander Maré
+ 1. <a href="https://github.com/ThulaniNyama">Thulani Nyama</a> - Team Coordinator
+ 2. <a href="https://github.com/KganyagoE">Ephraim Kganyago</a>
+ 3. <a href="https://github.com/Immaculate180">Immaculate Makokga</a>
+ 4. <a href="https://github.com/ngwenyanv">Nhlanhla Ngwenya</a>
+ 5. <a href="https://github.com/GiftNhlenyama">Sqiniseko Sizwe Gift Nhlenyama</a>
+ 6. <a href="https://github.com/ZanderM14">Zander Maré</a>
 
 ### Technologies Used
 - Operating Systems
